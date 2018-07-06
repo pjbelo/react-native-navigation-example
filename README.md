@@ -15,7 +15,7 @@ This App shows examples of using react-navigation package:
 
 ## Install and run
 ```
-git clone https://github.com/pjbelo/react-native-list-example.git
+git clone https://github.com/pjbelo/react-native-navigation-example.git
 cd react-native-navigation-example
 npm install
 npm start
